@@ -1,0 +1,13 @@
+
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹øÈ¶8Ì®»¾,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(–å¿ÿÿÿÿÿ8Ì®»¾,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(û¶•Ğúÿÿÿÿ8Ì®»¾,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜÉó‘8Ì®»¾,
+qsquid:S1192"PDefine a constant instead of duplicating this literal "Richard Dawkins" 6 times.(ß½Ê¾üÿÿÿÿ8Ì®»¾,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼ß©úÿÿÿÿ8Ì®»¾,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß½Ê¾üÿÿÿÿ8Ì®»¾,
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹øÈ¶8Ì®»¾,
